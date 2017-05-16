@@ -1,0 +1,5 @@
+BrnchNm@@BrnchAdrs@@BrnchZc@@Cty@@Ste@@City
+Name11  abcdef123  12345  INDIA  GOA  GOA
+Name12  abcdef234  12345  INDIA  GOA  GOA
+Name13  abcdef456  12345  INDIA  GOA  GOA
+Name14  abcdef678  12345  INDIA  GOA  GOA

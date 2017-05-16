@@ -1,0 +1,5 @@
+RoleName###Roledes###RoleType###Results
+personalbanker02@@@banker&&&E%%%New Role with id 549 Created Sucessfully
+personalbanker03@@@banker&&&E%%%New Role with id 550 Created Sucessfully
+personalbanker04@@@banker&&&E%%%New Role with id 551 Created Sucessfully
+banker06@@@banker06&&&E%%%New Role with id 552 Created Sucessfully

@@ -1,0 +1,6 @@
+EmpNAme	  Password	  Role  Branch
+EmpN1  Pwd1  managericici27  Bank11
+EmpN2  Pwd2  managericici28  Bank12
+EmpN3  Pwd3  managericici29  Bank13
+EmpN4  Pwd4  managericici30  Bank14
+EmpN5  Pwd5  managericici31  Bank15
